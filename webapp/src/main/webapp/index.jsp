@@ -1,2 +1,2 @@
-<h1>i have completed my three projects</h1>
+<h1>i have completed my projects</h1>
 
